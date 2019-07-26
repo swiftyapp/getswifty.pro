@@ -13,6 +13,11 @@ page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
 
+activate :google_analytics do |ga|
+  ga.tracking_id = 'UA-91455305-7'
+  ga.domain_name = 'getswifty.pro'
+end
+
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
 
