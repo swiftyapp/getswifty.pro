@@ -1,5 +1,8 @@
 # Activate and configure extensions
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
+GH_USERNAME = 'alchaplinsky'
+GH_REPO = 'swifty'
+GH_TAG = '0.1.2'
 
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
@@ -13,11 +16,30 @@ page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
 
+page '/download/**', layout: false
+
 activate :google_analytics do |ga|
   ga.tracking_id = 'UA-91455305-7'
   ga.domain_name = 'getswifty.pro'
 end
 
+helpers do
+  def dist_url(type)
+    base = "https://github.com/#{GH_USERNAME}/#{GH_REPO}/releases/download/v#{GH_TAG}/"
+    case type
+    when 'mac'
+      "#{base}Swifty-#{GH_TAG}.dmg"
+    when 'win'
+      "#{base}Swifty-Setup-#{GH_TAG}.exe"
+    when 'deb'
+      "#{base}Swifty_#{GH_TAG}_amd64.deb"
+    when 'rpm'
+      "#{base}Swifty_#{GH_TAG}.x86_64.rpm"
+    when 'appimage'
+      "#{base}Swifty-#{GH_TAG}.AppImage"
+    end
+  end
+end
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
 

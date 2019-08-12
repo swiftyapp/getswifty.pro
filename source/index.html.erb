@@ -14,12 +14,58 @@ title: Swifty – Modern, Lightweight and Free Password Manager
   <div class="banner">
     <h1>Swifty is a modern, lightweight and free Password Manager</h1>
     <a
-      href="https://github.com/alchaplinsky/swifty/releases/download/v0.1.0/Swifty-0.1.0.dmg"
+      id="download-button"
+      href="/download/mac"
       onClick="ga('send', 'event', 'Buttons', 'Download_Button_Clicked')"
       class="button"
       target="_blank"
     >
-      Download Swifty for macOS
+      Download Swifty for Mac OS
     </a>
   </div>
+  <br /><br /><br /><br />
+  <h1>Installation</h1>
+  <p class="muted">Latest releases:</p>
+  <table class="installations" border>
+    <tr>
+      <td>Mac OS (.dmg)</td>
+      <td>
+        <a href="/download/mac">
+          <%= image_tag "download.svg", width: 24 %>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Windows (.exe)</td>
+      <td>
+        <a href="/download/win">
+          <%= image_tag "download.svg", width: 24 %>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Debian (.deb)</td>
+      <td>
+        <a href="/download/deb">
+          <%= image_tag "download.svg", width: 24 %>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Fedora (.rpm)</td>
+      <td>
+        <a href="/download/rpm">
+          <%= image_tag "download.svg", width: 24 %>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>Other Linux OS (.AppImage)</td>
+      <td>
+        <a href="/download/AppImage">
+          <%= image_tag "download.svg", width: 24 %>
+        </a>
+      </td>
+    </tr>
+  </table>
 </div>

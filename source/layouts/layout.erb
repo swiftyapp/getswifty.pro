@@ -8,6 +8,7 @@
     <!-- Use the title from a page's frontmatter if it has one -->
     <title><%= current_page.data.title || "Swifty" %></title>
     <%= stylesheet_link_tag "site" %>
+    <%= javascript_include_tag "ua-parser" %>
     <%= javascript_include_tag "site" %>
     <link rel="apple-touch-icon" sizes="180x180" href="images/apple-icon-180x180.png">
     <link rel="icon" type="image/png" sizes="192x192"  href="images/android-icon-192x192.png">
