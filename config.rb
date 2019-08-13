@@ -12,6 +12,7 @@ end
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
+page '/google_oauth2/callback/*.html', layout: false
 
 activate :google_analytics do |ga|
   ga.tracking_id = 'UA-91455305-7'
