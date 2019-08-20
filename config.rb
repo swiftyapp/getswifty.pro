@@ -15,6 +15,7 @@ end
 page '/*.xml', layout: false
 page '/*.json', layout: false
 page '/*.txt', layout: false
+page '/google_oauth2/callback/*.html', layout: false
 
 page '/download/**', layout: false
 
