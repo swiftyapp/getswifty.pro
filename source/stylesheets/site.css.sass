@@ -22,13 +22,18 @@ h1
   max-width: 1160px
   margin: 0 auto
   .banner
-    width: 400px
+    max-width: 400px
     margin: 0 auto
     h1
       margin-bottom: 60px
   img
     max-width: 100%
-    
+
+@media screen and (max-width: 600px)
+  .wrapper img
+    max-width: 150%
+    transform: translateX(-15%)
+  
 .github-button
   position: absolute
   top: 30px
