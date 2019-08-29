@@ -40,6 +40,13 @@ helpers do
       "#{base}Swifty-#{GH_TAG}.AppImage"
     end
   end
+
+  def meta_data(page, name)
+    data = page.data.send(name)
+    return data.send(I18n.locale) if data.is_a?(Hash) && data[I18n.locale]
+    return data if data
+    return nil
+  end
 end
 # With alternative layout
 # page '/path/to/file.html', layout: 'other_layout'
