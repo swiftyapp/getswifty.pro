@@ -2,7 +2,7 @@
 # https://middlemanapp.com/advanced/configuration/#configuring-extensions
 GH_USERNAME = 'swiftyapp'
 GH_REPO = 'swifty'
-GH_TAG = '0.3.0-beta.1'
+GH_TAG = '0.3.0'
 
 activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
