@@ -53,5 +53,24 @@
       </div>
     </div>
     <%= yield %>
+    <div class="footer">
+      <div class="wrapper">
+        <a href="https://github.com/swiftyapp/swifty">GitHub</a>
+        <a href="https://github.com/swiftyapp/swifty/releases">Releases</a>
+        <span>License: <a href="https://github.com/swiftyapp/swifty/blob/master/LICENSE"><strong>GPL-3.0</strong></a></span>
+        <div class="download-links">
+          Download for:&nbsp;
+          <a href="/download/mac">
+            <%= inline_svg 'mac.svg', size: '16px*16px' %>
+          </a>
+          <a href="/download/win">
+            <%= inline_svg 'windows.svg', size: '15px*15px' %>
+          </a>
+          <a href="/download/deb">
+            <%= inline_svg 'linux.svg', size: '15px*15px' %>
+          </a>
+        </div>
+      </div>
+    </div>
   </body>
 </html>
