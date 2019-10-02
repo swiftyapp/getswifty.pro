@@ -1,0 +1,65 @@
+body
+  background-color: #fefefe
+  color: #333
+  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif
+  text-align: center
+  margin: 0
+
+a
+  color: rgba(#000, 0.7)
+  &:focus,
+  &:hover
+    color: rgba(#000, 0.6)
+
+h1
+  font-weight: 200
+  line-height: 1.4em
+
+.muted
+  color: #a8a8a8
+
+.wrapper
+  max-width: 1160px
+  margin: 0 auto
+  .banner
+    max-width: 400px
+    margin: 0 auto
+    h1
+      margin-bottom: 60px
+  img
+    max-width: 100%
+
+@media screen and (max-width: 600px)
+  .wrapper img
+    max-width: 150%
+    transform: translateX(-15%)
+
+.button
+  display: inline-block
+  background: #2A88DD
+  font-size: 16px
+  color: #fff
+  border-radius: 5px
+  height: 48px
+  cursor: pointer
+  line-height: 48px
+  padding: 0 2rem
+  text-decoration: none
+  &:hover, &:focus
+    background: darken(#2A88DD, 5%)
+    color: #fff
+
+.installations
+  width: 100%
+  max-width: 700px
+  margin: 0 auto
+  border-collapse: collapse
+  td
+    border: 1px solid #ccc
+    padding: 10px 20px
+    &:first-child
+      text-align: left
+      width: 65%
+  a
+    color: #2A88DD
+    text-decoration: none

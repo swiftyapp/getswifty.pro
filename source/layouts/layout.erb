@@ -34,6 +34,24 @@
     <%= google_analytics_tag %>
   </head>
   <body>
+    <div class="header">
+      <div class="wrapper">
+        <a href="/" class="logo">
+          <div class="brand">
+            <%= image_tag "brand@2x.png", width: '48', height: '48'%>
+          </div>
+          <div class="name">Swifty</div>
+        </a>
+        <a
+          href="https://github.com/swiftyapp/swifty"
+          onClick="ga('send', 'event', 'Buttons', 'Github_Button_Clicked')"
+          class="github-button"
+          target="_blank"
+        >
+          <%= inline_svg 'github.svg', size: '24px*24px' %>
+        </a>
+      </div>
+    </div>
     <%= yield %>
   </body>
 </html>
