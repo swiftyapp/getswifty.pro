@@ -20,7 +20,7 @@ page '/google_oauth2/callback/*.html', layout: false
 page '/download/**', layout: false
 
 activate :inline_svg
-
+activate :meta_tags
 activate :google_analytics do |ga|
   ga.tracking_id = 'UA-91455305-7'
   ga.domain_name = 'getswifty.pro'
@@ -45,13 +45,6 @@ helpers do
     when 'appimage'
       "#{base}Swifty-#{GH_TAG}.AppImage"
     end
-  end
-
-  def meta_data(page, name)
-    data = page.data.send(name)
-    return data.send(I18n.locale) if data.is_a?(Hash) && data[I18n.locale]
-    return data if data
-    return nil
   end
 end
 # With alternative layout
