@@ -1,0 +1,42 @@
+.switcher
+  margin: 0
+  padding: 0
+  width: 400px
+  list-style: none
+  margin: 0 auto 20px auto
+  overflow: hidden
+  li
+    position: relative
+    float: left
+    font-size: 18px
+    padding: 15px 24px
+    border: 1px solid #ccc
+    min-width: 83px
+    &:first-child
+      border-radius: 5px 0 0 5px
+    &:not(:first-child)
+      margin-left: -1px
+    &:last-child
+      border-radius: 0 5px 5px 0
+    &.current
+      background: #fff
+    &.disabled
+      color: #a8a8a8
+    .label
+      position: absolute
+      bottom: 0px
+      left: 50%
+      transform: translateX(-50%)
+      padding: 1px 5px
+      font-size: 8px
+      background: #ff605e
+      color: #fff
+
+@media screen and (max-width: 560px)
+  .switcher
+    width: 290px
+    li
+      font-size: 14px
+      padding: 10px 5px
+    .label
+      display: none

@@ -1,0 +1,159 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="305" height="331" viewBox="0 0 305 331">
+  <metadata><?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c142 79.160924, 2017/07/13-01:06:39        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""/>
+   </rdf:RDF>
+</x:xmpmeta>
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                                                                                                    
+                           
+<?xpacket end="w"?></metadata>
+<defs>
+    <style>
+      .cls-1 {
+        fill: #fffffe;
+      }
+
+      .cls-1, .cls-10, .cls-11, .cls-2, .cls-3, .cls-4, .cls-5, .cls-6, .cls-7, .cls-8, .cls-9 {
+        fill-rule: evenodd;
+      }
+
+      .cls-2 {
+        fill: #d9e2e9;
+      }
+
+      .cls-3 {
+        fill: #b3c1cf;
+      }
+
+      .cls-4 {
+        fill: #f4f6f8;
+      }
+
+      .cls-5 {
+        fill: #98abc0;
+      }
+
+      .cls-6 {
+        fill: #cdd6e1;
+      }
+
+      .cls-7 {
+        fill: #bac5d6;
+      }
+
+      .cls-8, .cls-9 {
+        fill: #fff;
+      }
+
+      .cls-8 {
+        filter: url(#filter);
+      }
+
+      .cls-9 {
+        filter: url(#filter-2);
+      }
+
+      .cls-10 {
+        fill: #f2f9ff;
+      }
+
+      .cls-11 {
+        fill: #eef2f5;
+      }
+    </style>
+    <filter id="filter" x="1340" y="250" width="210" height="171" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" dy="2" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="7.071"/>
+      <feFlood result="flood" flood-color="#c0cbd5" flood-opacity="0.09"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+    <filter id="filter-2" x="1245" y="347" width="140" height="84" filterUnits="userSpaceOnUse">
+      <feOffset result="offset" in="SourceAlpha"/>
+      <feGaussianBlur result="blur" stdDeviation="3.162"/>
+      <feFlood result="flood" flood-color="#527e8e" flood-opacity="0.1"/>
+      <feComposite result="composite" operator="in" in2="blur"/>
+      <feBlend result="blend" in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <path id="Fill_113" data-name="Fill 113" class="cls-1" d="M1453.31,519L1495,403H1318.77a12.907,12.907,0,0,0-12.15,8.535L1268,519h185.31" transform="translate(-1245 -250)"/>
+  <path id="Fill_114" data-name="Fill 114" class="cls-2" d="M1444.38,541l7.62-21H1266.96l-4.58,12.629a6.264,6.264,0,0,0,5.95,8.371h176.05" transform="translate(-1245 -250)"/>
+  <path id="Fill_115" data-name="Fill 115" class="cls-3" d="M1446.26,540a10.244,10.244,0,0,0,9.66-6.776l43.72-122.11a6.148,6.148,0,0,0-3.07-7.575l-1.09-.539L1446,540h0.26" transform="translate(-1245 -250)"/>
+  <path id="Fill_116" data-name="Fill 116" class="cls-2" d="M1361,540l12.16,36H1417l-12.45-36H1361" transform="translate(-1245 -250)"/>
+  <path id="Fill_117" data-name="Fill 117" class="cls-3" d="M1323,575.936V581h102l-14.11-41h-6.42l12.5,35.936H1323" transform="translate(-1245 -250)"/>
+  <path id="Fill_118" data-name="Fill 118" class="cls-3" d="M1459.77,409H1334l2.23-6H1462l-2.23,6" transform="translate(-1245 -250)"/>
+  <path id="Fill_119" data-name="Fill 119" class="cls-4" d="M1425.9,504H1300l34.1-95H1460l-34.1,95" transform="translate(-1245 -250)"/>
+  <path id="Fill_120" data-name="Fill 120" class="cls-1" d="M1391.74,501H1334l12.26-35H1404l-12.26,35" transform="translate(-1245 -250)"/>
+  <path id="Fill_121" data-name="Fill 121" class="cls-1" d="M1405.92,463H1348l9.08-25H1415l-9.08,25" transform="translate(-1245 -250)"/>
+  <path id="Fill_122" data-name="Fill 122" class="cls-1" d="M1439.78,435H1358l8.22-23H1448l-8.22,23" transform="translate(-1245 -250)"/>
+  <path id="Fill_123" data-name="Fill 123" class="cls-2" d="M1360,428l5.72-16H1441s-26.48,16.9-44.7,8.9S1360,428,1360,428" transform="translate(-1245 -250)"/>
+  <path id="Fill_124" data-name="Fill 124" class="cls-3" d="M1359.44,421c1.77-4.972-.8-9-5.73-9s-10.38,4.029-12.15,9,0.8,9,5.73,9,10.38-4.029,12.15-9" transform="translate(-1245 -250)"/>
+  <path id="Fill_125" data-name="Fill 125" class="cls-3" d="M1368.65,445.5c1.11-3.037-.51-5.5-3.63-5.5a8.864,8.864,0,0,0-7.67,5.5c-1.11,3.037.51,5.5,3.63,5.5a8.863,8.863,0,0,0,7.67-5.5" transform="translate(-1245 -250)"/>
+  <path id="Fill_126" data-name="Fill 126" class="cls-3" d="M1356.65,474.5c1.11-3.039-.51-5.5-3.62-5.5a8.864,8.864,0,0,0-7.68,5.5c-1.11,3.037.51,5.5,3.62,5.5a8.865,8.865,0,0,0,7.68-5.5" transform="translate(-1245 -250)"/>
+  <path id="Fill_127" data-name="Fill 127" class="cls-2" d="M1406.87,443H1371l1.13-3H1408l-1.13,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_128" data-name="Fill 128" class="cls-2" d="M1349.89,441H1337l1.11-3H1351l-1.11,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_129" data-name="Fill 129" class="cls-2" d="M1348.88,446H1334l1.12-3H1350l-1.12,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_130" data-name="Fill 130" class="cls-2" d="M1342.87,450H1333l1.13-3H1344l-1.13,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_131" data-name="Fill 131" class="cls-2" d="M1341.84,456H1330l1.16-3H1343l-1.16,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_132" data-name="Fill 132" class="cls-2" d="M1395.88,472H1360l1.12-3H1397l-1.12,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_133" data-name="Fill 133" class="cls-2" d="M1386.27,497H1351l7.73-22H1394l-7.73,22" transform="translate(-1245 -250)"/>
+  <path id="Fill_134" data-name="Fill 134" class="cls-2" d="M1403.87,449H1368l1.12-3H1405l-1.13,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_135" data-name="Fill 135" class="cls-2" d="M1388.87,454H1367l1.13-3H1390l-1.13,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_136" data-name="Fill 136" class="cls-2" d="M1289.11,459H1289l14.59-40.892L1289.11,459m17.69-49.394A12.852,12.852,0,0,1,1318,403h-0.09a12.7,12.7,0,0,0-11.11,6.605" transform="translate(-1245 -250)"/>
+  <path id="Fill_137" data-name="Fill 137" class="cls-2" d="M1316.02,459l17.56-49.691h0L1335.8,403h-17.97a12.82,12.82,0,0,0-11.18,6.605,13.6,13.6,0,0,0-.86,1.908l-2.34,6.594L1289,459h27.02" transform="translate(-1245 -250)"/>
+  <path id="Fill_138" data-name="Fill 138" class="cls-5" d="M1389.79,409H1334l2.24-6H1392l-2.21,6" transform="translate(-1245 -250)"/>
+  <path id="Fill_139" data-name="Fill 139" class="cls-6" d="M1350.45,458H1318l17.8-49H1392l-0.85,2.378h-23.77L1359,434.441h23.88l-0.85,2.377h-23.89L1350.45,458m-17.05-5.482-1.12,3.1h11.52l1.12-3.1H1333.4m1.9-5.233-1.12,3.1h9.87l1.12-3.1h-9.87m1.9-5.233-1.12,3.1h14.91l1.13-3.1H1337.2m1.9-5.234-1.12,3.1h13.01l1.13-3.1H1339.1m15.72-25.44c4.97,0,7.56,3.982,5.77,8.9s-7.26,8.9-12.24,8.9-7.56-3.982-5.78-8.9,7.27-8.9,12.25-8.9" transform="translate(-1245 -250)"/>
+  <path id="Fill_140" data-name="Fill 140" class="cls-2" d="M1373.31,459H1349l7.8-21H1381l-1.17,3.206h-7.38l-1.14,3.072h7.39l-0.73,1.983h-7.4l-1.14,3.07h7.42l-0.73,1.983h-7.42l-1.14,3.071H1375L1373.31,459m-9.35-17.793c3.02,0,4.6,2.368,3.51,5.289a8.57,8.57,0,0,1-7.44,5.289c-3.02,0-4.59-2.368-3.51-5.289a8.594,8.594,0,0,1,7.44-5.289" transform="translate(-1245 -250)"/>
+  <path id="Fill_141" data-name="Fill 141" class="cls-2" d="M1381.77,435l5.88-16.44c-0.63-.04-1.26-0.059-1.88-0.059-13.82,0-25.18,9.351-25.18,9.351L1366.34,412h0L1358,435h23.77" transform="translate(-1245 -250)"/>
+  <path id="Fill_142" data-name="Fill 142" class="cls-7" d="M1360,428s11.2-9.438,24.83-9.438c0.61,0,1.23.018,1.85,0.059L1389,412h-23.33L1360,428" transform="translate(-1245 -250)"/>
+  <path id="Fill_143" data-name="Fill 143" class="cls-5" d="M1347.29,430c4.94,0,10.38-4.029,12.15-9s-0.8-9-5.73-9-10.38,4.029-12.15,9,0.8,9,5.73,9" transform="translate(-1245 -250)"/>
+  <path id="Fill_144" data-name="Fill 144" class="cls-5" d="M1360.98,451a8.863,8.863,0,0,0,7.67-5.5c1.11-3.037-.51-5.5-3.63-5.5a8.864,8.864,0,0,0-7.67,5.5c-1.11,3.037.51,5.5,3.63,5.5" transform="translate(-1245 -250)"/>
+  <path id="Fill_145" data-name="Fill 145" class="cls-7" d="M1377.94,443H1371l1.07-3H1379l-1.06,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_146" data-name="Fill 146" class="cls-7" d="M1349.89,441H1337l1.11-3H1351l-1.11,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_147" data-name="Fill 147" class="cls-7" d="M1348.88,446H1334l1.12-3H1350l-1.12,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_148" data-name="Fill 148" class="cls-7" d="M1342.87,450H1333l1.13-3H1344l-1.13,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_149" data-name="Fill 149" class="cls-7" d="M1341.84,456H1330l1.16-3H1343l-1.16,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_150" data-name="Fill 150" class="cls-7" d="M1374.95,449H1368l1.07-3H1376l-1.05,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_151" data-name="Fill 151" class="cls-7" d="M1373.95,454H1367l1.06-3H1375l-1.05,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_152" data-name="Fill 152" class="cls-8" d="M1472.19,369H1389l27.81-72H1500l-27.81,72" transform="translate(-1245 -250)"/>
+  <path id="Fill_153" data-name="Fill 153" class="cls-1" d="M1442.01,322.5c-2.32,6.264-9.14,11.362-15.21,11.362s-9.12-5.1-6.81-11.362,9.14-11.362,15.21-11.362S1444.32,316.234,1442.01,322.5Zm-16,13.5c7.22,0,15.32-6.056,18.07-13.5s-0.88-13.5-8.09-13.5-15.32,6.056-18.07,13.5,0.88,13.5,8.09,13.5h0Z" transform="translate(-1245 -250)"/>
+  <path id="Fill_154" data-name="Fill 154" class="cls-1" d="M1425.89,338a18.768,18.768,0,0,0,9.72-3.053c7.8-4.855,12.16-13.8,9.71-19.947l-3.9,2.422c1.78,4.454-1.38,10.94-7.04,14.46s-11.71,2.758-13.48-1.695l-3.9,2.421c1.41,3.543,4.79,5.392,8.89,5.392" transform="translate(-1245 -250)"/>
+  <path id="Fill_155" data-name="Fill 155" class="cls-3" d="M1426,337c7.98,0,16.94-6.28,19.98-14s-0.97-14-8.95-14l-1.51,3.851c5.78,0,8.69,4.552,6.48,10.148s-8.7,10.149-14.48,10.149L1426,337" transform="translate(-1245 -250)"/>
+  <path id="Fill_156" data-name="Fill 156" class="cls-1" d="M1479.01,322.5c-2.32,6.264-9.14,11.362-15.21,11.362s-9.12-5.1-6.81-11.362,9.14-11.362,15.21-11.362S1481.32,316.234,1479.01,322.5Zm-16,13.5c7.22,0,15.32-6.056,18.07-13.5s-0.88-13.5-8.09-13.5-15.32,6.056-18.07,13.5,0.88,13.5,8.09,13.5h0Z" transform="translate(-1245 -250)"/>
+  <path id="Fill_157" data-name="Fill 157" class="cls-1" d="M1463,337c7.98,0,16.94-6.28,19.98-14s-0.97-14-8.95-14l-1.52,3.851c5.79,0,8.7,4.552,6.49,10.148s-8.7,10.149-14.48,10.149L1463,337" transform="translate(-1245 -250)"/>
+  <path id="Fill_158" data-name="Fill 158" class="cls-3" d="M1472.37,334a23.29,23.29,0,0,0,9.61-10.89c3.06-7.78-.99-14.11-9.03-14.11l-1.53,3.881c5.83,0,8.76,4.588,6.54,10.229a16.862,16.862,0,0,1-6.96,7.895l1.37,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_159" data-name="Fill 159" class="cls-3" d="M1431.75,350H1404l1.25-3H1433l-1.25,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_160" data-name="Fill 160" class="cls-1" d="M1430.75,356H1403l1.25-3H1432l-1.25,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_161" data-name="Fill 161" class="cls-1" d="M1419.73,361H1401l1.26-3H1421l-1.27,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_162" data-name="Fill 162" class="cls-1" d="M1469.75,350H1442l1.25-3H1471l-1.25,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_163" data-name="Fill 163" class="cls-1" d="M1457.74,356H1440l1.26-3H1459l-1.26,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_164" data-name="Fill 164" class="cls-9" d="M1254,421l23.11-65H1375l-23.11,65H1254Z" transform="translate(-1245 -250)"/>
+  <path id="Fill_165" data-name="Fill 165" class="cls-10" d="M1314.82,387.5c3.78-10.769-1.81-19.5-12.48-19.5s-22.38,8.731-26.16,19.5,1.8,19.5,12.47,19.5,22.39-8.731,26.17-19.5" transform="translate(-1245 -250)"/>
+  <path id="Fill_168" data-name="Fill 168" class="cls-3" d="M1356.75,371H1329l1.25-3H1358l-1.25,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_169" data-name="Fill 169" class="cls-11" d="M1354.75,376H1327l1.25-3H1356l-1.25,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_170" data-name="Fill 170" class="cls-11" d="M1344.73,382H1326l1.26-3H1346l-1.27,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_171" data-name="Fill 171" class="cls-11" d="M1346.75,399H1319l1.25-3H1348l-1.25,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_172" data-name="Fill 172" class="cls-11" d="M1334.73,404H1316l1.26-3H1336l-1.27,3" transform="translate(-1245 -250)"/>
+  <path id="Fill_166" data-name="Fill 166" class="cls-3" d="M1303.59,382.518c1.32-3.6-.63-6.518-4.35-6.518a10.511,10.511,0,0,0-9.14,6.518c-2.31,6.306-.82,10.482,2.9,10.482s8.26-4.12,10.59-10.482" transform="translate(-1245 -250)"/>
+  <path id="Fill_167" data-name="Fill 167" class="cls-3" d="M1277,401.222c4.74-6.963,26.95-6.963,27,0-4.69,3.569-10.19,5.778-15.44,5.778s-9.27-2.209-11.56-5.778" transform="translate(-1245 -250)"/>
+</svg>

@@ -1,0 +1,56 @@
+.platform
+  position: relative
+  background: #fff
+  padding: 25px
+  margin: 0 auto 40px auto
+  box-shadow: 0px 2px 16px rgba(0,0,0,0.12)
+  max-width: 960px
+  border-radius: 5px
+  overflow: hidden
+  min-height: 80px
+  text-align: left
+  font-size: 14px
+  color: #8b8e92
+  .description
+    box-sizing: border-box
+    float: left
+    padding-left: 100px
+  .action
+    float: right
+    text-align: center
+  .logo
+    left: 25px
+    border-radius: 4px
+    position: absolute
+    padding: 15px
+    background: #f5f7f9
+    svg path, svg polygon
+      fill: #aaa
+  h2
+    margin: 0 0 10px 0
+    font-size: 30px
+    line-height: 32px
+  .button
+    font-size: 16px
+    padding: 2px 20px
+    margin-bottom: 10px
+    svg
+      position: relative
+      top: 6px
+      margin-right: 10px
+      path
+        fill: #fff
+
+@media screen and (max-width: 600px)
+  .platform
+    h2
+      font-size: 24px
+    .button
+      padding: 0px 10px
+
+@media screen and (max-width: 560px)
+  .description, .action
+    float: none
+    width: 100%
+  .description
+    margin-bottom: 20px

@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="679px" height="733px" viewBox="0 0 679 733" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>vault</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-1">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-1134.63028%" x2="50%" y2="0%" id="linearGradient-2">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-3">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="0%" id="linearGradient-4">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="1.69056087e-14%" id="linearGradient-5">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.959217%" y1="100.038941%" x2="49.959217%" y2="0%" id="linearGradient-6">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100.038941%" x2="50%" y2="0%" id="linearGradient-7">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="50%" y1="100%" x2="50%" y2="-0.00984639622%" id="linearGradient-8">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9866203%" y1="100%" x2="49.9866203%" y2="0%" id="linearGradient-9">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+        <linearGradient x1="49.9999296%" y1="100%" x2="49.9999296%" y2="0%" id="linearGradient-10">
+            <stop stop-color="#808080" stop-opacity="0.25" offset="0%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.12" offset="54%"></stop>
+            <stop stop-color="#808080" stop-opacity="0.1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="vault" fill-rule="nonzero">
+            <rect id="Rectangle" fill="url(#linearGradient-1)" x="560.38" y="673.63" width="50.2" height="59.37"></rect>
+            <rect id="Rectangle" fill="#F5F5F5" transform="translate(585.485000, 702.225000) rotate(-180.000000) translate(-585.485000, -702.225000) " x="561.55" y="673.62" width="47.87" height="57.21"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-2)" x="68.88" y="673.63" width="50.2" height="59.37"></rect>
+            <rect id="Rectangle" fill="#F5F5F5" x="70.05" y="673.63" width="47.87" height="57.21"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-3)" x="0" y="0" width="678.3" height="681.8" rx="14.86"></rect>
+            <rect id="Rectangle" fill="#FAFAFA" x="4.67" y="3.5" width="670.12" height="670.12" rx="14.86"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-4)" x="112.66" y="111.49" width="452.98" height="457.65"></rect>
+            <rect id="Rectangle" fill="#FFFFFF" x="116.16" y="116.16" width="445.97" height="445.97"></rect>
+            <circle id="Oval" fill="url(#linearGradient-5)" cx="339.15" cy="339.15" r="84.06"></circle>
+            <circle id="Oval" fill="#FAFAFA" cx="339.15" cy="339.15" r="80.56"></circle>
+            <rect id="Rectangle" fill="url(#linearGradient-6)" x="277.86" y="499.67" width="24.52" height="25.68"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-6)" x="310.55" y="499.67" width="24.52" height="25.68"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-7)" x="343.23" y="499.67" width="24.52" height="25.68"></rect>
+            <rect id="Rectangle" fill="url(#linearGradient-7)" x="375.92" y="499.67" width="24.52" height="25.68"></rect>
+            <rect id="Rectangle" fill="#FF605E" x="278.44" y="500.84" width="23.35" height="23.35"></rect>
+            <rect id="Rectangle" fill="#FF605E" opacity="0.7" x="311.13" y="500.84" width="23.35" height="23.35"></rect>
+            <rect id="Rectangle" fill="#FF605E" opacity="0.5" x="343.82" y="500.84" width="23.35" height="23.35"></rect>
+            <rect id="Rectangle" fill="#FF605E" opacity="0.3" x="376.51" y="500.84" width="23.35" height="23.35"></rect>
+            <rect id="Rectangle" fill="#FF605E" transform="translate(370.098048, 295.968387) rotate(35.000000) translate(-370.098048, -295.968387) " x="367.763048" y="287.798387" width="4.67" height="16.34"></rect>
+            <rect id="Rectangle" fill="#FF605E" transform="translate(382.331224, 370.092792) rotate(125.000000) translate(-382.331224, -370.092792) " x="379.996224" y="361.922792" width="4.67" height="16.34"></rect>
+            <rect id="Rectangle" fill="#FF605E" transform="translate(308.197597, 382.326480) rotate(-145.000000) translate(-308.197597, -382.326480) " x="305.862597" y="374.15648" width="4.67" height="16.34"></rect>
+            <rect id="Rectangle" fill="#FF605E" transform="translate(295.973131, 308.202341) rotate(-55.000000) translate(-295.973131, -308.202341) " x="293.638131" y="300.032341" width="4.67" height="16.34"></rect>
+            <rect id="Rectangle" fill="#000000" opacity="0.2" transform="translate(370.055583, 295.830763) rotate(35.000000) translate(-370.055583, -295.830763) " x="367.720583" y="287.660763" width="4.67" height="16.34"></rect>
+            <rect id="Rectangle" fill="#000000" opacity="0.2" transform="translate(382.293112, 369.958518) rotate(125.000000) translate(-382.293112, -369.958518) " x="379.958112" y="361.788518" width="4.67" height="16.34"></rect>
+            <rect id="Rectangle" fill="#000000" opacity="0.2" transform="translate(308.165798, 382.185913) rotate(-145.000000) translate(-308.165798, -382.185913) " x="305.830798" y="374.015913" width="4.67" height="16.34"></rect>
+            <rect id="Rectangle" fill="#000000" opacity="0.2" transform="translate(295.935507, 308.064807) rotate(-55.000000) translate(-295.935507, -308.064807) " x="293.600507" y="299.894807" width="4.67" height="16.34"></rect>
+            <circle id="Oval" fill="url(#linearGradient-8)" cx="339.15" cy="339.15" r="50.78"></circle>
+            <circle id="Oval" fill="#FF605E" cx="339.15" cy="339.15" r="47.87"></circle>
+            <path d="M300.04,345.57 C300.021085,328.486538 309.109527,312.688271 323.887138,304.116968 C338.664749,295.545665 356.890637,295.501087 371.71,304 C358.376136,291.167712 338.83926,287.172341 321.538101,293.73964 C304.236941,300.306939 292.272205,316.25992 290.811923,334.707877 C289.35164,353.155834 298.657522,370.792531 314.71,380 C305.334915,371.000282 300.036747,358.565658 300.04,345.57 Z" id="Path" fill="#FFFFFF" opacity="0.2"></path>
+            <path d="M135.43,296.54 L98.07,296.54 L98.07,203.26 C98.0755121,201.259113 99.6991051,199.639992 101.7,199.64 L131.81,199.64 C133.814794,199.64 135.44,201.265206 135.44,203.27 L135.43,296.54 Z" id="Path" fill="url(#linearGradient-9)"></path>
+            <path d="M131.62,479.83 L101.88,479.83 C99.7757951,479.83 98.07,478.124205 98.07,476.02 L98.07,382.93 L135.430053,382.93 L135.43,476 C135.435323,477.013936 135.036264,477.98817 134.321173,478.707015 C133.606081,479.42586 132.63395,479.830014 131.62,479.83 Z" id="Path" fill="url(#linearGradient-10)"></path>
+            <path d="M102.4,200.8 L131.09,200.8 C132.840743,200.8 134.26,202.219257 134.26,203.97 L134.26,294.2 L99.2598565,294.2 L99.26,204 C99.2520057,203.159253 99.578344,202.349768 100.167216,201.749644 C100.756089,201.149519 101.559252,200.807919 102.4,200.8 L102.4,200.8 Z" id="Path" fill="#FAFAFA"></path>
+            <path d="M99.23,384.1 L134.23,384.1 L134.23,476.43 C134.23,477.015422 133.755422,477.49 133.17,477.49 L100.3,477.49 C99.7145782,477.49 99.24,477.015422 99.24,476.43 L99.24,384.1 L99.23,384.1 Z" id="Path" fill="#FAFAFA"></path>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,105 @@
+<div class="section highlighted centered">
+  <div class="wrapper">
+    <h2>Get Swifty now</h2>
+    <p>Swifty is available as desktop application on MacOS, Windows and Linux.</p>
+  </div>
+</div>
+<div class="section shaded centered">
+  <div class="wrapper">
+    <ul class="switcher">
+      <li class="current">Desktop</li>
+      <li class="disabled">
+        Mobile
+        <div class="label">comming soon</div>
+      </li>
+      <li class="disabled">
+        Extensions
+        <div class="label">comming soon</div>
+      </li>
+    </ul>
+    <br />
+    <p class="muted">Latest releases:</p>
+    <div class="platform mac">
+      <div class="description">
+        <div class="logo">
+          <%= inline_svg 'mac.svg', size: '48px*48px' %>
+        </div>
+        <h2>macOS</h2>
+        <div>macOS 10.12 or later</div>
+      </div>
+      <div class="action">
+        <a href="/download/mac" class="button">
+          <%= inline_svg "download.svg", width: 24 %>
+          Download
+        </a>
+        <div>version <%= current_version %></div>
+      </div>
+    </div>
+    <div class="platform windows">
+      <div class="description">
+        <div class="logo">
+          <%= inline_svg 'windows.svg', size: '48px*48px' %>
+        </div>
+        <h2>Windows</h2>
+        <div>Windows 10 or later</div>
+      </div>
+      <div class="action">
+        <a href="/download/win" class="button">
+          <%= inline_svg "download.svg", width: 24 %>
+          Download
+        </a>
+        <div>version <%= current_version %></div>
+      </div>
+    </div>
+    <div class="platform linux">
+      <div class="description">
+        <div class="logo">
+          <%= inline_svg 'ubuntu.svg', size: '48px*48px' %>
+        </div>
+        <h2>Linux (.deb)</h2>
+        <div>Ubuntu 16.04 or later (64-bit only)</div>
+      </div>
+      <div class="action">
+        <a href="/download/deb" class="button">
+          <%= inline_svg "download.svg", width: 24 %>
+          Download
+        </a>
+        <div>version <%= current_version %></div>
+      </div>
+    </div>
+
+    <div class="platform linux">
+      <div class="description">
+        <div class="logo">
+          <%= inline_svg 'fedora.svg', size: '48px*48px' %>
+        </div>
+        <h2>Linux (.rpm)</h2>
+        <div>Fedora 28 or later (64-bit only)</div>
+      </div>
+      <div class="action">
+        <a href="/download/rpm" class="button">
+          <%= inline_svg "download.svg", width: 24 %>
+          Download
+        </a>
+        <div>version <%= current_version %></div>
+      </div>
+    </div>
+
+    <div class="platform linux">
+      <div class="description">
+        <div class="logo">
+          <%= inline_svg 'linux.svg', size: '48px*48px' %>
+        </div>
+        <h2>Linux (.AppImage)</h2>
+        <div>Other Linux distributions (64-bit only)</div>
+      </div>
+      <div class="action">
+        <a href="/download/AppImage" class="button">
+          <%= inline_svg "download.svg", width: 24 %>
+          Download
+        </a>
+        <div>version <%= current_version %></div>
+      </div>
+    </div>
+  </div>
+</div>

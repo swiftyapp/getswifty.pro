@@ -27,6 +27,10 @@ activate :google_analytics do |ga|
 end
 
 helpers do
+  def current_version
+    GH_TAG
+  end
+
   def dist_url(type)
     base = "https://github.com/#{GH_USERNAME}/#{GH_REPO}/releases/download/v#{GH_TAG}/"
     case type

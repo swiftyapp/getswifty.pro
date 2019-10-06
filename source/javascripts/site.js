@@ -21,7 +21,9 @@ const target = os => {
 window.onload = () => {
   const parser = new UAParser();
   const os = parser.getOS();
-  const button = document.getElementById("download-button");
-  button.innerText = `Download Swifty for ${os.name}`;
-  button.setAttribute("href", `/download/${target(os)}`);
+  const buttons = document.querySelectorAll(".download-button .os");
+  buttons.forEach(button => {
+    button.innerText = os.name;
+    button.setAttribute("href", `/download/${target(os)}`);
+  })
 };

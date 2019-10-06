@@ -2,64 +2,77 @@
 title: Swifty: Password Manager - Keep your Passwords Safe and Organized
 description: Swifty is a Free and Offline Password Manager that allows you to Securely Store your Passwords, Credit Card Info and Other Credentials. Available on MacOS, Windows and Linux.
 ---
-<div class="wrapper">
-  <br /><br />
-  <%= image_tag "banner.png" %>
-  <div class="banner">
-    <h1>Swifty is a modern, lightweight and free Password Manager</h1>
-    <a
-      id="download-button"
-      href="/download/mac"
-      onClick="ga('send', 'event', 'Buttons', 'Download_Button_Clicked')"
-      class="button"
-      target="_blank"
-    >
-      Download Swifty for Mac OS
-    </a>
+<div class="hero">
+  <div class="wrapper">
+    <div class="intro">
+      <div class="label">Free & Open Source</div>
+      <h1>Swifty is a<br /> Free & Simple Password Manager</h1>
+      <h3>Keep your passwords and sensitive data safe and organized</h3>
+      <br />
+      <a
+        href="/download/mac"
+        onClick="ga('send', 'event', 'Buttons', 'Download_Button_Clicked')"
+        class="button download-button"
+        target="_blank"
+      >
+        Download for <span class="os">Mac OS</span>
+      </a>
+      <div class="version">
+        version <%= current_version%>
+      </div>
+    </div>
+    <div class="illustration">
+      <%= image_tag 'banner-shape1.svg' %>
+      <%= image_tag 'banner-shape2.svg' %>
+      <%= image_tag 'banner-shape3.svg' %>
+    </div>
   </div>
-  <br /><br /><br /><br />
-  <h1>Installation</h1>
-  <p class="muted">Latest releases:</p>
-  <table class="installations" border>
-    <tr>
-      <td>Mac OS (.dmg)</td>
-      <td>
-        <a href="/download/mac">
-          <%= image_tag "download.svg", width: 24 %>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Windows (.exe)</td>
-      <td>
-        <a href="/download/win">
-          <%= image_tag "download.svg", width: 24 %>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Debian (.deb)</td>
-      <td>
-        <a href="/download/deb">
-          <%= image_tag "download.svg", width: 24 %>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Fedora (.rpm)</td>
-      <td>
-        <a href="/download/rpm">
-          <%= image_tag "download.svg", width: 24 %>
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>Other Linux OS (.AppImage)</td>
-      <td>
-        <a href="/download/AppImage">
-          <%= image_tag "download.svg", width: 24 %>
-        </a>
-      </td>
-    </tr>
-  </table>
+</div>
+<div class="section centered">
+  <div class="wrapper">
+    <h2>Security First</h2>
+    <p>Swifty encrypts all your data with AES-256 bit encryption right after you enter it to the app. This way your sensitive data is always hidden whether it is stored on your local drive or being processed in-memory on your computer.</p>
+    <%= image_tag 'vault.svg', width: '220', class: 'feature' %>
+    <h3>AES-256 Encryption</h3>
+  </div>
+</div>
+<div class="section shaded centered">
+  <div class="wrapper">
+    <h2>Remember Single Master Password</h2>
+    <p>With Swifty you no longer need to remember all your long and hard to guess passwords. You can securely store them behind one strong master password. </p>
+    <%= image_tag 'master-password.svg', width: '320', class: 'feature' %>
+  </div>
+</div>
+<div class="section centered">
+  <div class="wrapper">
+    <h2>Your Secrets Stay with You</h2>
+    <p>You are anonymous to Swifty as you don’t need to sign-up to use the app. All your data is always saved locally on your device and not being sent to any servers. Unless you choose to sync your data via one of your could accounts. And even then it is still encrypted. </p>
+    <%= image_tag 'secrets.svg', width: '320', class: 'feature' %>
+  </div>
+</div>
+<div class="section shaded centered">
+  <div class="wrapper">
+    <h2>Strong Password Generator</h2>
+    <p>With Swifty you no longer need to remember all your long and hard to guess passwords. You can securely store them behind one strong master password. </p>
+    <%= image_tag 'generator.svg', width: '320', class: 'feature' %>
+  </div>
+</div>
+<div class="section centered">
+  <div class="wrapper">
+    <h2>Eliminate Weak, Old and Duplicate Passwords</h2>
+    <p>Swifty does automatic password audit of your vault and uncovers weak, old and duplicate passwords which you can replace with strong and unique passwords using  build-in password generator.</p>
+    <%= image_tag 'strong-passwords.svg', width: '320', class: 'feature' %>
+  </div>
+</div>
+<div class="section highlighted centered">
+  <h2>What Are You Waiting For?</h2>
+  <p>Keep your passwords safe and organized</p>
+  <a
+    href="/download/mac"
+    onClick="ga('send', 'event', 'Buttons', 'Download_Button_Clicked')"
+    class="button download-button"
+    target="_blank"
+  >
+    Get Swifty for <span class="os">Mac OS</span>
+  </a>
 </div>
