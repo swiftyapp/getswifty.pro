@@ -8,7 +8,7 @@ GEM
       tzinfo (~> 1.1)
     addressable (2.7.0)
       public_suffix (>= 2.0.2, < 5.0)
-    autoprefixer-rails (9.6.4)
+    autoprefixer-rails (9.7.1)
       execjs
     backports (3.15.0)
     coffee-script (2.4.1)
@@ -86,7 +86,7 @@ GEM
       middleman-core (~> 4.0, >= 4.0.0)
       nokogiri (~> 1.6, >= 1.6)
     mini_portile2 (2.4.0)
-    minitest (5.12.2)
+    minitest (5.13.0)
     net-sftp (2.1.2)
       net-ssh (>= 2.6.5)
     net-ssh (5.2.0)
