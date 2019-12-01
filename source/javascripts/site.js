@@ -21,9 +21,9 @@ const target = os => {
 window.onload = () => {
   const parser = new UAParser();
   const os = parser.getOS();
-  const buttons = document.querySelectorAll(".download-button .os");
+  const buttons = document.querySelectorAll(".download-button");
   buttons.forEach(button => {
-    button.innerText = os.name;
+    button.querySelector('.os').innerText = os.name;
     button.setAttribute("href", `/download/${target(os)}`);
   })
 };
