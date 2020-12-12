@@ -23,6 +23,10 @@ window.onload = () => {
   const os = parser.getOS();
   const buttons = document.querySelectorAll(".download-button");
   buttons.forEach(button => {
+    if (parser.getDevice().type == 'mobile') {
+      button.style.display = 'none';
+      return;
+    }
     button.querySelector('.os').innerText = os.name;
     button.setAttribute("href", `/download/${target(os)}`);
   })
