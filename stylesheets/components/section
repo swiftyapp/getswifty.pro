@@ -1,0 +1,28 @@
+.section {
+  padding: 60px 0; }
+  .section.shaded {
+    background-color: #f5f7f9; }
+  .section.highlighted {
+    padding: 40px;
+    background-color: #ff605e; }
+    .section.highlighted h2 {
+      margin: 10px 0 5px  0; }
+    .section.highlighted p {
+      margin-bottom: 25px; }
+    .section.highlighted h2, .section.highlighted h3, .section.highlighted p {
+      color: #fff; }
+    .section.highlighted .button {
+      background: #fff;
+      color: #ff605e; }
+  .section.centered {
+    text-align: center; }
+  .section p {
+    max-width: 680px;
+    margin: 0 auto 40px auto;
+    font-size: 18px;
+    line-height: 1.5;
+    color: #8b8e92; }
+  .section img.feature {
+    width: 100%;
+    max-width: 320px;
+    margin-bottom: 10px; }

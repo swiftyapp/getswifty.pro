@@ -1,0 +1,51 @@
+body {
+  background-color: #fefefe;
+  color: #333;
+  font-family: -apple-system, BlinkMacSystemFont, "Avenir Next", "Avenir", "Segoe UI", "Lucida Grande", "Helvetica Neue", "Helvetica", "Fira Sans", "Roboto", "Noto", "Droid Sans", "Cantarell", "Oxygen", "Ubuntu", "Franklin Gothic Medium", "Century Gothic", "Liberation Sans", sans-serif;
+  margin: 0; }
+
+a {
+  color: rgba(0, 0, 0, 0.7); }
+  a:focus, a:hover {
+    color: rgba(0, 0, 0, 0.6); }
+
+h1 {
+  font-size: 62px;
+  line-height: 80px;
+  font-weight: 500;
+  color: #233d63; }
+
+h2 {
+  font-size: 38px;
+  line-height: 60px;
+  font-weight: 500;
+  color: #233d63; }
+
+.muted {
+  color: #a8a8a8; }
+
+.wrapper {
+  max-width: 1160px;
+  min-width: 320px;
+  padding: 0 20px;
+  margin: 0 auto; }
+  .wrapper .banner {
+    max-width: 400px;
+    margin: 0 auto; }
+    .wrapper .banner h1 {
+      margin-bottom: 60px; }
+
+.button {
+  display: inline-block;
+  background: #ff605e;
+  font-size: 20px;
+  color: #fff;
+  border-radius: 10px;
+  height: 48px;
+  cursor: pointer;
+  line-height: 48px;
+  padding: 3px 2rem;
+  text-decoration: none; }
+  .button:hover, .button:focus {
+    background: #ff4745;
+    color: #fff; }
